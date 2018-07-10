@@ -1,3 +1,12 @@
-coverage/
-test.js
-.*
+# Directories
+src
+docs
+coverage
+
+# Configurations
+tslint.json
+tsconfig.json
+tsconfig.module.json
+
+# Build test files
+**/*.spec.*
